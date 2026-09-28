@@ -1,0 +1,12 @@
+package pe.edu.utec.cs2031.flyaway.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class UserRegisterResponseDto {
+    private Long id;
+}

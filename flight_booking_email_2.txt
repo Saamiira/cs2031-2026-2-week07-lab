@@ -1,0 +1,4 @@
+Nombres: Beto Rios
+Número de vuelo: SO0090
+Fecha de reserva: 2026-09-27T20:39:36.5714008
+Fecha de salida: 2027-08-01T10:00:00
